@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="34" text-anchor="middle" font-family="Arial" font-size="24" fill="#16232a">Action mix — out-of-sample (validated) rows only, n=618</text>
+<text x="178" y="130.1" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">no_action</text>
+<rect x="190" y="70.0" width="730.0" height="92.5" fill="#6F4E7C" rx="4"/>
+<text x="928.0" y="130.1" font-family="Arial" font-size="13" fill="#27343b">414</text>
+<text x="178" y="232.6" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">review_metadata</text>
+<rect x="190" y="172.5" width="146.4" height="92.5" fill="#6F4E7C" rx="4"/>
+<text x="344.4" y="232.6" font-family="Arial" font-size="13" fill="#27343b">83</text>
+<text x="178" y="335.1" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">investigate_external</text>
+<rect x="190" y="275.0" width="134.0" height="92.5" fill="#6F4E7C" rx="4"/>
+<text x="332.0" y="335.1" font-family="Arial" font-size="13" fill="#27343b">76</text>
+<text x="178" y="437.6" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">refresh_content</text>
+<rect x="190" y="377.5" width="79.3" height="92.5" fill="#6F4E7C" rx="4"/>
+<text x="277.3" y="437.6" font-family="Arial" font-size="13" fill="#27343b">45</text>
+</svg>
